@@ -12,5 +12,9 @@
   "author": "Modernizr <http://modernizr.com>",
   "main": [
     "modernizr.js"
+  ],
+  "ignore.json": [
+    ".gitignore",
+    "README.md"
   ]
 }
