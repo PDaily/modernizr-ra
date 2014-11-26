@@ -1,3 +1,5 @@
+### Forked for use within a Rails-Assets gem as it included a proper `main` declaration in `bower.json`
+
 # Modernizr [![Build Status](https://secure.travis-ci.org/Modernizr/Modernizr.png?branch=master)](http://travis-ci.org/Modernizr/Modernizr)
 
 ##### Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the user’s browser.
